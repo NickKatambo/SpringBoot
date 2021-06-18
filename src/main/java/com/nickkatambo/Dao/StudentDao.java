@@ -1,14 +1,19 @@
 package com.nickkatambo.Dao;
 
 import com.nickkatambo.Entity.Student;
+import org.springframework.stereotype.Repository;
 
 import java.util.Collection;
 import java.util.HashMap;
 import java.util.Map;
 
+@Repository
 public class StudentDao {
 
+    //Creating DbSet or table memory
     private static Map<Integer, Student> students;
+
+    //Creating memory data
     static {
         students = new HashMap<Integer, Student>(){
             {

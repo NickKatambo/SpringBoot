@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27c19112-4b64-4e26-931b-e30b53ed32c2" name="Default Changelist" comment="Added Spring boot dependencies and created folder structure.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nickkatambo/Entity/Student.java" afterDir="false" />
+    <list default="true" id="27c19112-4b64-4e26-931b-e30b53ed32c2" name="Default Changelist" comment="Class implementation and mock student data.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nickkatambo/Controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nickkatambo/Service/StudentService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/nickkatambo/Dao/StudentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nickkatambo/Dao/StudentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nickkatambo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nickkatambo/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,12 +62,36 @@
       <option name="project" value="LOCAL" />
       <updated>1624016568690</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Class implementation and mock student data.">
+      <created>1624018125264</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1624018125264</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="2077dc2f-998a-426f-904f-2bc7cc9d8bd3">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -92,6 +119,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Spring boot dependencies and created folder structure." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Spring boot dependencies and created folder structure." />
+    <MESSAGE value="Class implementation and mock student data." />
+    <option name="LAST_COMMIT_MESSAGE" value="Class implementation and mock student data." />
   </component>
 </project>

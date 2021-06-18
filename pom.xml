@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <name>spring-boot</name>
-    <description>Demo project for Spring Boot</description>
+    <description>Student project for Spring Boot with Amigoscode</description>
 
     <groupId>com.nickkatambo</groupId>
     <artifactId>SpringBoot</artifactId>
